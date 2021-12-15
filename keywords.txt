@@ -1,12 +1,12 @@
 ########################################################
-# Syntax Coloring Map for SCL3300 Inclinometer Library #
+# Syntax Coloring Map for SCA3300 Inclinometer Library #
 ########################################################
 
 #######################################
 # Class
 #######################################
 
-SCL3300	KEYWORD1
+SCA3300	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
